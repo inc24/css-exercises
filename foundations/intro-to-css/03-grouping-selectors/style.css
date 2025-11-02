@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+.main-button
+.outline-button {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', serif;
+}
+
+.main-button {
+    background-color: black;
+    color: white;
+}
+
+.outline-button {
+    background-color: yellow;
+}
