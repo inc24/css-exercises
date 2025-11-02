@@ -2,4 +2,20 @@
 .odd {
     background-color: pink;
     font-family: Verdana, DejaVu Sans, sans-serif;
+    
+}
+
+.larger-font {
+    font-size: 24px;
+}
+
+#number-2 {
+    color: blue;
+    font-size: 36px;
+}
+
+#number-4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
 }
